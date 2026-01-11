@@ -11,7 +11,7 @@
 ## 📺 Proje Sunum Videosu
 Aşağıdaki bağlantıya tıklayarak proje sunumunu ve kodun çalışma demosunu izleyebilirsiniz:
 
-👉 **[YouTube Videomu İzlemek İçin Tıklayın]((https://youtu.be/Li3CFO6aXRY?si=cxwBMtlyp9igzPDq))**
+👉 **[YouTube Videomu İzlemek İçin Tıklayın](https://youtu.be/Li3CFO6aXRY?si=cxwBMtlyp9igzPDq)**
 
 ---
 
